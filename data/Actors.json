@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":4,"characterName":"EarthMove_01","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":10,"name":"卫志邦","nickname":"志邦","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_1","characterIndex":4,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":10,"name":"ddgdfdh","nickname":"志邦","note":"","profile":""}
+]

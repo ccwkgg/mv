@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":false,"name":"室内","order":1,"parentId":0,"scrollX":491.4,"scrollY":304.2},
+{"id":2,"expanded":false,"name":"27镇内 京","order":2,"parentId":0,"scrollX":481.79999999999995,"scrollY":319.8},
+{"id":3,"expanded":false,"name":"近畿地方","order":3,"parentId":0,"scrollX":481.79999999999995,"scrollY":319.8},
+{"id":4,"expanded":false,"name":"04奈良26","order":4,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"05石山29   临时起点","order":5,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"06界30","order":6,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"07杂贺31","order":7,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"大地图","order":8,"parentId":0,"scrollX":2348.4,"scrollY":294.59999999999997},
+{"id":9,"expanded":false,"name":"09小仓43","order":9,"parentId":8,"scrollX":370.8,"scrollY":304.2},
+{"id":10,"expanded":false,"name":"10博多44","order":10,"parentId":8,"scrollX":435.59999999999997,"scrollY":329.4},
+{"id":11,"expanded":false,"name":"11平户45 南蛮","order":11,"parentId":8,"scrollX":548.4,"scrollY":324.59999999999997},
+{"id":12,"expanded":false,"name":"12府内46 教堂","order":12,"parentId":8,"scrollX":548.4,"scrollY":324.59999999999997},
+{"id":13,"expanded":false,"name":"13八代47 武馆","order":13,"parentId":8,"scrollX":548.4,"scrollY":324.59999999999997},
+{"id":14,"expanded":false,"name":"14沃肥48","order":14,"parentId":8,"scrollX":548.4,"scrollY":324.59999999999997},
+{"id":15,"expanded":false,"name":"15鹿儿岛49  铁匠铺","order":15,"parentId":8,"scrollX":548.4,"scrollY":324.59999999999997}
+]
